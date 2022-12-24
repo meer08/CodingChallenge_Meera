@@ -1,0 +1,23 @@
+body{
+  margin: 2;
+
+}
+.container-1{
+  height:50px;
+}
+.top-container
+{
+  text-align: center;
+  opacity: 0.5;
+  font-family: 'Nunito', sans-serif;
+}
+.container-3
+{
+  margin-left:40%;
+
+  align-content: center;
+}
+.container-4
+{
+  margin-left:15%;
+}
